@@ -381,7 +381,7 @@ blockquote {
 }
 
 .imagem::before {
-    content
+
     position: absolute;
     z-index: 1;
     font-family: var(--fonte-cyber);
